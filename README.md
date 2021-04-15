@@ -2,7 +2,7 @@
 
 ---
 
-A Software Developer specialized on Front-End development with the **technologies stack** you can find below 👇.
+A self-taught Software Developer specialized on Front-End development with the **technologies stack** you can find below 👇.
 
 ✅ I strive for perfection on everything I do/produce, driven by a mix of passion, curiosity and a strong work ethic.
 
@@ -19,6 +19,6 @@ A Software Developer specialized on Front-End development with the **technologie
 
 ---
 
-🔭 I’m currently working on my final React project which will be ready by June. It is inspired in Instagram and Unsplash, being the latter the one which API I am using.
+⚙️ I’m currently working on my final React project which will be ready by June. It is inspired in Instagram and Unsplash, being the latter the one which API I am using.
 
-📫 How to reach me: Drop me an email at aotab91@gmail.com or visit my LinkedIn profile (https://www.linkedin.com/in/anton-orro/) to find out more about me.
+📩 How to reach me: Drop me an email at aotab91@gmail.com or visit my LinkedIn profile (https://www.linkedin.com/in/anton-orro/) to find out more about me.
