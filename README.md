@@ -10,12 +10,18 @@ A self-taught Software Developer specialized on Front-End development with the *
 
 ---
 
-**Technologies Stack**
+**Technologies Stack:**
 
  - Main: <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html5 logo' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css3 logo' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript logo' width='50' height='50' /> <img src= 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react logo' width='50' height='50' />
  - Secondary: <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='node logo' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express logo' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='mysql logo' width='50' height='50' />
  - Testing libraries: <img src='https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg' alt='mocha logo' width='50' height='50' />
  - Version Control: <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='git logo' width='50' height='50' />
+
+---
+
+**Projects:**
+
+ - London Barberhood's new website (November 2020): https://www.londonbarberhood.com/
 
 ---
 
