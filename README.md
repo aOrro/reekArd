@@ -6,7 +6,7 @@ A self-taught Software Developer specialized on Front-End development with the *
 
 ✅ I strive for perfection on everything I do/produce, driven by a mix of passion, curiosity and a strong work ethic.
 
-🚀 I'm currently looking for my first role in the industry and my goal is to be part of an exciting project and to be surrounded of other developers who I can learn from.
+🚀 I'm looking for my first role in the industry and my goal is to be part of an exciting project and to be surrounded of other developers who I can learn from.
 
 ---
 
