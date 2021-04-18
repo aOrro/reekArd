@@ -25,6 +25,6 @@ A self-taught Software Developer specialized on Front-End development with the *
 
 ---
 
-⚙️ I’m currently working on my final React project which will be ready by June. It is inspired in Instagram and Unsplash, being the latter the one which API I am using.
+⚙️ I’m currently working on my final React project which will be ready by June. It is inspired in Instagram and Unsplash, being the latter the one which API I am using. (Repo: https://github.com/reekArd/pick-a-pic)
 
 📩 How to reach me: Drop me an email at aotab91@gmail.com or visit my LinkedIn profile (https://www.linkedin.com/in/anton-orro/) to find out more about me.
